@@ -1,7 +1,7 @@
 data segment
 i 		db 0;
 j		db 0;
-c   	db 0;
+c 		db 0;
 data ends
 
 code segment
